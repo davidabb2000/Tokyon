@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Bowly";
+  src: url('../src/assets/fonts/BowlbyOneSC-Regular.ttf');
+}
+
+@font-face {
+  font-family: "Stack";
+  src: url('../src/assets/fonts/StackSansHeadline-VariableFont_wght.ttf');
+}
+
+:root {
+  --bg-color: #f7eee1;
+  --shadow-bg-color: #fce2bf;
+  --text-bg-color: #363636;
+  --border-color: #8FBFE0;
+}
+
+html {
+  background-color: #fffaf4;
+}
